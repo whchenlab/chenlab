@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
+theme: Ocean
+day_night:Ture
 font: native
 font_size: L
 
@@ -20,22 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: weihuachen@hust.edu.cn
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Luoyu Road No. 1037 
+  city: SWuhan
+  region: Hongshan District
+  postcode: '430074'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '30.5198'
+  longitude: '114.4143'
+directions: Room 701, Enming Building,  Qiming College
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday - Friday 10:00 to 15:00'
+
 appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
@@ -57,7 +56,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
