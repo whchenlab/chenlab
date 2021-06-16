@@ -6,7 +6,7 @@ authors:
   - Guell M.
   - V. van Noort
   - E. Yus
-  - W. H. Chen
+  - Weihua-Chen
   - J. Leigh-Bell
   - K. Michalodimitrakis
   - T. Yamada
