@@ -3,7 +3,7 @@ title: Systematic analysis of alternative first exons in plant genomes
 publication_types:
   - "2"
 authors:
-  - Weihua-Chen 
+  - Wei-Hua Chen
   - Guanting Lv
   - Congying Lv
   - Changqing Zeng
