@@ -6,7 +6,7 @@ authors:
   - Kalliopi Trachana
   - Tomas A Larsson
   - Sean Powell
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Tobias Doerks
   - Jean Muller
   - Peer Bork
