@@ -16,13 +16,13 @@ author_notes: []
 
 publication_short: 
 abstract: >-
-  Mendelian disorders are often caused by mutations in genes that are not lethal but induce functional distortions leading to diseases. Here we study the extent of gene duplicates that might compensate genes causing monogenic diseases. We provide evidence for pervasive functional redundancy of human monogenic disease genes (MDs) by duplicates by manifesting 1) genes involved in human genetic disorders are enriched in duplicates and 2) duplicated disease genes tend to have higher functional similarities with their closest paralogs in contrast to duplicated non-disease genes of similar age. We propose that functional compensation by duplication of genes masks the phenotypic effects of deleterious mutations and reduces the probability of purging the defective genes from the human population; this functional compensation could be further enhanced by higher purification selection between disease genes and their duplicates as well as their orthologous counterpart compared to non-disease genes. However, due to the intrinsic expression stochasticity among individuals, the deleterious mutations could still be present as genetic diseases in some subpopulations where the duplicate copies are expressed at low abundances. Consequently the defective genes are linked to genetic disorders while they continue propagating within the population. Our results provide insight into the molecular basis underlying the spreading of duplicated disease genes.
+  Evolview is an online visualization and management tool for customized and annotated phylogenetic trees. It allows users to visualize phylogenetic trees in various formats, customize the trees through built-in functions and user-supplied datasets and export the customization results to publication-ready figures. Its ‘dataset system’ contains not only the data to be visualized on the tree, but also ‘modifiers’ that control various aspects of the graphical annotation. Evolview is a single-page application (like Gmail); its carefully designed interface allows users to upload, visualize, manipulate and manage trees and datasets all in a single webpage. Developments since the last public release include a modern dataset editor with keyword highlighting functionality, seven newly added types of annotation datasets, collaboration support that allows users to share their trees and datasets and various improvements of the web interface and performance. In addition, we included eleven new ‘Demo’ trees to demonstrate the basic functionalities of Evolview, and five new ‘Showcase’ trees inspired by publications to showcase the power of Evolview in producing publication-ready figures. Evolview is freely available at: http://www.evolgenius.info/evolview/.
 
 draft: false
 featured: ture
 
 slides: null
-url_pdf: ''
+url_pdf: 'https://academic.oup.com/nar/article-pdf/44/W1/W236/7633742/gkw370.pdf'
 image:
   caption: ""
   focal_point: ""
@@ -33,12 +33,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 
-doi: 10.1371/journal.pcbi.1003073
+doi: 10.1093/nar/gkw370
 tags:
-  - PLoS Comput Biol
-publication: PLoS Comput Biol
+  - Nucleic Acids Research
+publication: Nucleic Acids Research
 projects: []
-date: 2013-05-16T00:00:00.000Z
+date: 2016-08-30T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
