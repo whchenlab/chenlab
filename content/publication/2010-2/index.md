@@ -9,8 +9,8 @@ authors:
   - Songnian Hu
   - Martin J Lercher
   - Jun Yu
-  - Weihua Chen 
-  - Weihua-Chen
+  - Wei-Hua Chen 
+
 
 # Author notes (optional)
 author_notes: []
