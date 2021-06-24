@@ -3,7 +3,7 @@ title: "OGEE: an online gene essentiality database"
 publication_types: ["2"]
 # Author notes (optional)
 authors: 
-  - Weihua Chen
+  - Wei-Hua Chen
   - Pablo Minguez
   - Martin J. Lercher
   - Peer Bork
