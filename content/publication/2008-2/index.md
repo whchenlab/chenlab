@@ -6,7 +6,7 @@ title: Transcriptomic profiling of mature embryo from an elite super-hybrid rice
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xiaomeng Ge
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Shuhui Song
   - Weiwei Wang
   - Songnian Hu
