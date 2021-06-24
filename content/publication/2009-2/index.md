@@ -14,7 +14,7 @@ authors:
   - S. Bader
   - P. Beltran-Alvarez
   - D. Castano-Diez
-  - Weihua-Chen
+  - Wei-Hua Chen
   - D. Devos
   - M. Guell
   - T. Norambuena
