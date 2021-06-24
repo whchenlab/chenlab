@@ -9,7 +9,7 @@ authors:
   - Songnian Hu
   - Martin J Lercher
   - Jun Yu
-  - Wei-Hua Chen 
+  - Weihua-Chen
 
 
 # Author notes (optional)
