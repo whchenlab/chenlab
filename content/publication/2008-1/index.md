@@ -6,7 +6,7 @@ authors:
   - Jianzhong Huang 
   - Xianzhang Jiang
   - Xiaowei Zhang 
-  - Weihua-Chen
+  - Wei-Hua Chen
   - Baoyu Tian
   - Zhengyu Shu
   - Songnian Hu
