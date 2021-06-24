@@ -4,7 +4,7 @@ publication_types: ["2"]
 # Author notes (optional)
 authors: 
   - Gerald Schönknecht
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Chad M. Ternes
   - Guillaume G. Barbier
   - Roshan P. Shrestha
