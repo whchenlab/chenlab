@@ -4,7 +4,7 @@ publication_types: ["2"]
 # Author notes (optional)
 authors: 
   - Guang-Zhong Wang
-  - Weihua-Chen
+  - Wei-Hua Chen
   - Martin J. Lercher
 
 
