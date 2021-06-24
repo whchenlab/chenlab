@@ -9,7 +9,7 @@ authors:
   - K. Michalodimitrakis
   - V. van Noort
   - T. Yamada
-  - Wei-Hua Chen
+  - Weihua-Chen
   - J. A. Wodke
   - M. Guell
   - S. Martinez
