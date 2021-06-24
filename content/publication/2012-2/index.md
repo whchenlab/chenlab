@@ -3,7 +3,7 @@ title: "Younger Genes Are Less Likely to Be Essential than Older Genes, and Dupl
 publication_types: ["2"]
 # Author notes (optional)
 authors: 
-  - Weihua Chen
+  - Wei-Hua Chen
   - Kalliopi Trachana
   - Martin J. Lercher
   - Peer Bork
