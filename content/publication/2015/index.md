@@ -5,7 +5,7 @@ publication_types: ["2"]
 authors: 
   - Maria Lluch-Senar
   - Javier Delgado
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Verónica Lloréns-Rico
   - Francis J O'Reilly
 
