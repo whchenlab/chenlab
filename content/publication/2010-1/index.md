@@ -4,7 +4,7 @@ publication_types: ["2"]
 # Author notes (optional)
 authors: 
   - He, F.
-  - Weihua-Chen
+  - Wei-Hua Chen
   - S. Collins
   - C. Acquisti
   - U. Goebel
