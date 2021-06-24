@@ -3,7 +3,7 @@ title: "Human Monogenic Disease Genes Have Frequently Functionally Redundant Par
 publication_types: ["2"]
 # Author notes (optional)
 authors: 
-  - Weihua-Chen
+  - Wei-Hua Chen
   - Xing-Ming Zhao
   - Vera van Noort
   - Peer Bork
