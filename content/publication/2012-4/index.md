@@ -6,7 +6,7 @@ authors:
   - Eva Yus
   - Marc Güell
   - Ana P Vivancos
-  - Wei-Hua Chen
+  - Weihua-Chen
   - María Lluch-Senar
   - Javier Delgado
   - Anne-Claude Gavin
