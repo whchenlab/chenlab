@@ -3,7 +3,7 @@ title: Analysis of 10,000 ESTs from lymphocytes of the cynomolgus monkey to  imp
 publication_types:
   - "2"
 authors:
-  - Wei-Hua Chen
+  - Weihua-Chen
   - X.-X.Wang
   - W.Lin
   - X.-W. He
