@@ -7,7 +7,7 @@ authors:
   - Shenghan Gao
   - Martin J. Lercher
   - Songnian Hu
-  - Weihua Chen
+  - Wei-Hua Chen
 
 
 # Author notes (optional)
