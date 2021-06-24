@@ -3,7 +3,7 @@ title: "ColorTree: a batch customization tool for phylogenic trees"
 publication_types: ["2"]
 # Author notes (optional)
 authors: 
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Martin J Lercher
 # Author notes (optional)
 author_notes: []
