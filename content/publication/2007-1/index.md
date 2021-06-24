@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Weiwei Wang
   - Bo Meng
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Xiaomeng Ge
   - Siqi Liu
   - Jun Yu Professor
