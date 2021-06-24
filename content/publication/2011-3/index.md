@@ -3,7 +3,7 @@ title: "Minimal regulatory spaces in yeast genomes"
 publication_types: ["2"]
 # Author notes (optional)
 authors: 
-  - Wei-Hua Chen
+  - Weihua-Chen
   - Wu Wei
   - Martin J Lercher
 
