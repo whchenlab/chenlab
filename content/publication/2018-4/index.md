@@ -36,8 +36,8 @@ url_video: ""
 
 doi: 10.3389/fgene.2018.00474
 tags:
-  - Front. Genet
-publication: Front. Genet
+  - Frontiers in Genetics
+publication: Frontiers in Genetics
 projects: []
 date: 2018-10-17T00:00:00.000Z
 url_slides: ""
